@@ -1,0 +1,26 @@
+{
+    "editor.rulers": [
+      {
+        "column": 100,
+        "color": "#ff00FF"
+      },
+      100, // <- a ruler in the default color or as customized at column 0
+      {
+        "column": 140,
+        "color": "#ff0000"
+      }
+    ],
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+      "editor.formatOnSave": true
+    },
+    "python.languageServer": "Pylance",
+    "python.pythonPath": "./venv/bin/python3.9",
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "files.insertFinalNewline": true
+  }
+  
