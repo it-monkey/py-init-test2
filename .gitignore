@@ -68,3 +68,5 @@ ENV/
 # various
 .VSCodeCounter
 *nogit*
+
+remo*

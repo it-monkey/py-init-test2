@@ -4,6 +4,8 @@ A small python based initialization tool to kickstart Raspberry Pi configuration
 
 The main aim for this tool is to automate configuration steps that I usually take, everytime I set up a new Raspberry Pi. I hope it helps you too.
 
+# [2021.05.02 This Repository was peramently moved to Github.](https://github.com/remohoeppli/py-init)
+
 [[_TOC_]]
 
 ## manual
